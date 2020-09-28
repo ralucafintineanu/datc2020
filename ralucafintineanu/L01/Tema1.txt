@@ -1,0 +1,2 @@
+O aplicatie de tipul cloud este google drive.
+Google Drive permite utilizatorilor sa stocheze fisiere pe serverele lor, sa sicronizeze fisiere intre diviceuri si sa le shareuiasca.
